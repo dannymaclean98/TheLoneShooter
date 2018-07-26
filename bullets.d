@@ -1,0 +1,1 @@
+.\bullets.o: Bullets.c
